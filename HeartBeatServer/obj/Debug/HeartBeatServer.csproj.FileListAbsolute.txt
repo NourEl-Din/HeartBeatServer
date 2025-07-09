@@ -73,11 +73,12 @@ D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\bin\Debug\System.Runtime.Compil
 D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\bin\Debug\System.Threading.Tasks.Extensions.xml
 D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\bin\Debug\System.Web.Http.xml
 D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\bin\Debug\System.Web.Http.Owin.xml
-D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\obj\Debug\HeartBeatServer.csproj.AssemblyReference.cache
 D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\obj\Debug\HeartBeatServer.Form1.resources
 D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\obj\Debug\HeartBeatServer.Properties.Resources.resources
 D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\obj\Debug\HeartBeatServer.csproj.GenerateResource.cache
-D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\obj\Debug\HeartBeatServer.csproj.CoreCompileInputs.cache
-D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\obj\Debug\HeartBeatServer.csproj.CopyComplete
 D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\obj\Debug\HeartBeatServer.exe
 D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\obj\Debug\HeartBeatServer.pdb
+D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\obj\Debug\HeartBeatServer.csproj.AssemblyReference.cache
+D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\obj\Debug\HeartBeatServer.csproj.CoreCompileInputs.cache
+D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\obj\Debug\HeartBeatServer.exe.config
+D:\PlayGround\C#\HeartBeatServer\HeartBeatServer\obj\Debug\HeartBea.7B5FD10E.Up2Date
